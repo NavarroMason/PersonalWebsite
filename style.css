@@ -1,0 +1,168 @@
+body {
+  background-color: sandybrown;
+
+}
+
+
+h1 {
+  color: black;
+  text-align:center;
+  text-decoration:underline;
+  font-family:monospace;
+  font-size:29px;
+}
+
+
+h2 {
+  color: black;
+  text-align:center;
+  text-decoration:underline;
+  font-family:monospace;
+  font-size:30px;
+}
+
+
+h3 {
+  color: black;
+  text-align:center;
+  text-decoration:underline;
+  font-family:monospace;
+  font-size:30px;
+}
+
+h7 {
+  color: black;
+  text-align:left;
+  font-family:papyrus;
+  font-size:15px;
+}
+
+h5 {
+  color: black;
+  text-align:left;
+  font-family:papyrus;
+  font-size:15px;
+
+}
+
+
+p {
+  color: black;
+  text-align:center;
+  font-family:papyrus;
+  font-size:17px;
+
+}
+
+
+img {
+  width:350px;
+  height:225px;
+  margin-left:450px;
+  border-color:black;
+  border-style:double;
+  border-width:12px;
+  border-radius:20px;
+}
+
+
+
+ol {
+  color: black;
+  font-family:papyrus;
+}
+
+h6 {
+  color: black;
+  text-align:right;
+  font-family:papyrus;
+
+}
+
+.famous1 {
+  width:350px;
+  height:250px;
+  margin-left:420px;
+  border-style:solid;
+  border-radius:20px;
+  border-width:12px;
+}
+
+.famous2 {
+  width:250px;
+  height:225px;
+  margin-left:450px;
+  border-style:double;
+  border-radius:20px;
+  border-width:12px;
+}
+
+.famous {
+  font-family:papyrus;
+  margin-left:100px; 
+}
+
+.unexplainable1 {
+  width:350px;
+  height:200px;
+  margin-left:400px;
+  border-style:double;
+  border-radius:20px;
+  border-width:12px;
+}
+
+.unexplainable {
+  font-family:papyrus;
+  margin-left:100px;
+}
+
+.job {
+  width:350px;
+  height:275px;
+  margin-left:400px;
+  border-style:double;
+  border-radius:20px;
+  border-width:12px;
+}
+
+.job1 {
+  font-family:papyus;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 4px;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a:hover:not(.active) {
+  background-color: black;
+}
+
+.active {
+  background-color: sandybrown;
+  padding: 20px 4px;
+  border-style:solid;
+  border-color: #333;
+}
+
+table, th, td {
+  border:1px solid black;
+  style="width:100%"
+}
+
+
